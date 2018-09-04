@@ -1,5 +1,6 @@
 # Church Scheduler
 
+[![Build Status](https://travis-ci.com/jondoesntgit/church-scheduler.svg?branch=master)](https://travis-ci.com/jondoesntgit/church-scheduler)
 ![ReadTheDocs](https://readthedocs.org/projects/church-scheduler/badge/?version=latest)
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/jondoesntgit/church-scheduler.svg?columns=all)](https://waffle.io/jondoesntgit/church-scheduler)
 
