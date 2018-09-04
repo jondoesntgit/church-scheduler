@@ -1,24 +1,28 @@
-# README
+# Church Scheduler
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![ReadTheDocs](https://readthedocs.org/projects/church-scheduler/badge/?version=latest)
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/jondoesntgit/church-scheduler.svg?columns=all)](https://waffle.io/jondoesntgit/church-scheduler)
 
-Things you may want to cover:
+An open-source rails app for coordinating your volunteers at your church.
 
-* Ruby version
+## Installation and Getting Started
 
-* System dependencies
+All documentation is hosted at [ReadTheDocs](https://church-scheduler.readthedocs.io/en/latest/)
 
-* Configuration
+## Contributing
 
-* Database creation
+New features and development is tracked at [Waffle.io](https://waffle.io/jondoesntgit/church-scheduler/)
 
-* Database initialization
+## Coming soon
 
-* How to run the test suite
+How-tos on:
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Ruby version
+- System dependencies
+- Configuration
+- Database creation
+- Database initialization
+- How to run the test suite
+- Services (job queues, cache servers, search engines, etc.)
+- Deployment instructions
+- ...
