@@ -1,5 +1,9 @@
 {
   "name": "church-scheduler",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^1.7.4",
+    "popper": "^1.0.1"
+  }
 }
