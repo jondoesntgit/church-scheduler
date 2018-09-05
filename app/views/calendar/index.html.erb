@@ -1,2 +1,38 @@
 <h1>Calendar</h1>
-<p>Find me in app/views/calendar/get.html.erb</p>
+<p>Drag names into the event to assign them.</p>
+
+
+
+
+<div id="container">
+  <div class="row">
+    <div class="col-sm-6">
+
+      <div class="card" style="width: 18rem;">
+        <div class="card-header">
+          <h5 class="card-title">Placeholder event</h5>
+        </div>
+        <div class="card-body" id="left">
+        </div>
+      </div>
+    </div>
+
+    <div class="col-sm-6">
+      <div class="card">
+        <div id="right" class="card-body">
+          <span class="badge">John Doe</span>
+          <span class="badge">Jane Doe</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<script>
+
+$(document).ready( () => {
+  dragula([document.getElementById('left'), document.getElementById('right')]);
+})
+
+</script>
